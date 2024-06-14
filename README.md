@@ -75,25 +75,25 @@ Here are some examples of the outputs you can generate using the functions in `N
 
 The following plot shows the closing price of a specific stock over time:
 
-![Closing Price Plot](closing_price_plot_github.png)
+![closing_price_plot](https://github.com/cwarre33/EDA-NASDAQ/assets/169564666/6c9f4090-b04f-4163-8aca-dde2b252c7b8)
 
 ### Trading Volume Plot
 
 This plot illustrates the trading volume of a specific stock over time:
 
-![Trading Volume Plot](trading_volume_plot.png)
+![trading_volume_plot](https://github.com/cwarre33/EDA-NASDAQ/assets/169564666/ece1683d-82f2-40d4-bec3-854c7e32f435)
 
 ### Correlation Heatmap
 
 The correlation heatmap displays the correlation between closing prices of selected stocks:
 
-![Correlation Heatmap](correlation_heatmap.png)
+![correlation_heatmap_plot](https://github.com/cwarre33/EDA-NASDAQ/assets/169564666/b30cc3ad-58e7-4d68-9509-10549b172aa8)
 
 ### Moving Averages Plot
 
 The following plot demonstrates the 30-day moving average overlaid on the closing price of a stock:
 
-![Moving Averages Plot](moving_averages_plot.png)
+![moving_averages_plot](https://github.com/cwarre33/EDA-NASDAQ/assets/169564666/3ad75591-0bd4-4e58-931b-0bc5b7621da9)
 
 ## Conclusion
 
